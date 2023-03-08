@@ -1,0 +1,20 @@
+# Project Name
+#### Student Name: *xxx*   Student ID: *xxx*
+
+TODO: Write a short project description.
+I want to follow along the theme of energy saving and want to produce a light that automatically turns on and off based on the lightlevel in room, and if the light is manually turned on that it will email the user saying that it has been turned on and that they are wasting electricity.  
+
+## Tools, Technologies and Equipment
+
+TODO: Write a list of things you propose to use in your work. This can be hardware, programming languages etc.
+1) will use java as my coding language right now as i am most famlilar with it.
+2) Reuse a light a prevous student has used to reduce waste.
+3) use IFTTT to send automatic emails to user.
+4) use an uno to be the brains of the operation.
+5) basic circuit components to produce and build the circuit.
+
+
+## Project Repository
+TODO: Create a repository for your project. You can add this proposal to it!
+
+
